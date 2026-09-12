@@ -1,4 +1,4 @@
-# Hi, I'm Mahitha Thippireddy 👋
+# Hi, I'm Mahitha!
 
 📄 [**Resume**](https://drive.google.com/file/d/1EZmZ8CkWsymHUFDckmYdQjJgMKTd5E_9/view?usp=sharing) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mahitha-thippireddy) &nbsp;|&nbsp; 📝 [Research Paper (OpenReview)](https://openreview.net/forum?id=3fMa060Ag5)
 
