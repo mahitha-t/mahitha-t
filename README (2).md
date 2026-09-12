@@ -13,7 +13,6 @@
 ### 🚀 Projects
 - [**harvest-shield**](https://github.com/mahitha-t/harvest-shield) — <!-- one-line description -->
 - [**crop_diagnosis_app**](https://github.com/mahitha-t/crop_diagnosis_app) — <!-- one-line description -->
-- [**mit-futuremakers-surestart**](https://github.com/mahitha-t/mit-futuremakers-surestart) — MIT FutureMakers Harvest Shield, Summer 2024
 - [**repo-analyzer**](https://github.com/mahitha-t/repo-analyzer) — <!-- one-line description -->
 - [**study-spots**](https://github.com/mahitha-t/study-spots) — <!-- one-line description -->
 - [**caml-case-closed**](https://github.com/mahitha-t/caml-case-closed) — <!-- one-line description -->
