@@ -13,6 +13,8 @@ I'm a Computer Science major and Information Science minor at Cornell University
 
 **Undergraduate Researcher in Relax ML Lab @ Cornell Bowers College of Computing and Information Science** 
 
+**Software Engineer @ Millennium Management with Women in Computing at Cornell**
+
 **Software Engineering Intern @ Simulacrum, a Cornell Tech-backed startup** 
 
 Contributing author on **TempusBench: An Evaluation Framework for Time-Series Forecasting** — [read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
