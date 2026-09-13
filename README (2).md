@@ -1,24 +1,45 @@
-# Hi, I'm Mahitha!
+# Hi, I'm Mahitha Thippireddy 👋
 
 📄 [**Resume**](https://drive.google.com/file/d/1EZmZ8CkWsymHUFDckmYdQjJgMKTd5E_9/view?usp=sharing) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mahitha-thippireddy) &nbsp;|&nbsp; 📝 [Research Paper (OpenReview)](https://openreview.net/forum?id=3fMa060Ag5)
 
 ---
 
 ### About Me
-<!-- Add a couple of sentences about who you are, what you're studying/working on, and what you're interested in. -->
+Computer Science student at Cornell University, building at the intersection of machine learning and software engineering.
 
-### 🔬 Research
-- **TempusBench**: an evaluation framework for time-series forecasting foundation models. [Read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
+### 💼 Experience
+**Software Development Engineering Intern @ Amazon** 
+
+**Machine Learning Software Engineer @ Engineers Without Borders** 
+
+**Undergraduate Researcher @ Cornell Bowers College of Computing and Information Science** 
+
+**Software Engineering Intern @ Simulacrum: Cornell Tech** 
+Contributing author on **TempusBench: An Evaluation Framework for Time-Series Forecasting** — [read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
 
 ### 🚀 Projects
-- [**harvest-shield**](https://github.com/mahitha-t/harvest-shield) — <!-- one-line description -->
-- [**crop_diagnosis_app**](https://github.com/mahitha-t/crop_diagnosis_app) — <!-- one-line description -->
-- [**repo-analyzer**](https://github.com/mahitha-t/repo-analyzer) — <!-- one-line description -->
-- [**study-spots**](https://github.com/mahitha-t/study-spots) — <!-- one-line description -->
-- [**caml-case-closed**](https://github.com/mahitha-t/caml-case-closed) — <!-- one-line description -->
+**[Campus Kitchen: Student Social Platform](https://github.com/mahitha-t/campus-kitchen)** : a student social platform for sharing recipes and blogs with real-time updates.
 
-### 🛠️ Skills
-<!-- e.g. Python, Java, OCaml, React, PyTorch, SQL — fill in what applies -->
+**[Git the Gist](https://github.com/mahitha-t/repo-analyzer)** : a GitHub commit analyzer with semantic search and interactive dashboards.
+
+**[Harvest Shield](https://github.com/mahitha-t/harvest-shield)** : a machine learning project for detecting crop disease in maize.
+
+[See all projects →](https://github.com/mahitha-t?tab=repositories)
 
 ### 📫 Contact
-Reach out via [LinkedIn](https://www.linkedin.com/in/mahitha-thippireddy).
+[mt862@cornell.edu](mailto:mt862@cornell.edu) · [LinkedIn](https://www.linkedin.com/in/mahitha-thippireddy)
+
+### 🎓 Coursework
+**Cornell University** — B.S. in Computer Science (Aug 2024 – Dec 2027)
+- Object Oriented Programming & Data Structures
+- Data Science for Engineers
+- Discrete Structures
+- Functional Programming
+- Computer System Organization and Programming
+- Machine Learning
+- Trends in Web Development
+- Analysis of Algorithms
+- AI Reasoning and Decision-Making
+- Databases
+- Robotics
+- Principles of Large Scale Machine Learning
