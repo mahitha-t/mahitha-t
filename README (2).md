@@ -7,13 +7,14 @@
 I'm a Computer Science major and Information Science minor at Cornell University, and I'm passionate about using machine learning and software engineering to build technology that puts people first. I'm especially interested in applying these skills toward human-centered, socially impactful work, from ML-driven tools that support real-world communities to software that's designed with the end user in mind.
 
 ### Experience
-**Software Development Engineering Intern @ Amazon** 
+**Software Development Engineering Intern @ Amazon** (Just Walk Out Organization)
 
 **Machine Learning Software Engineer @ Engineers Without Borders** 
 
 **Undergraduate Researcher in Relax ML Lab @ Cornell Bowers College of Computing and Information Science** 
 
 **Software Engineering Intern @ Simulacrum, a Cornell Tech-backed startup** 
+
 Contributing author on **TempusBench: An Evaluation Framework for Time-Series Forecasting** — [read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
 
 ### Projects
