@@ -18,7 +18,7 @@ I'm a Computer Science major and Information Science minor at Cornell University
 Contributing author on **TempusBench: An Evaluation Framework for Time-Series Forecasting** — [read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
 
 ### Projects
-**[Campus Kitchen: Student Social Platform](https://github.com/mahitha-t/campus-kitchen)** : a student social platform for sharing recipes and blogs with real-time updates.
+**[Campus Kitchen](https://github.com/mahitha-t/trends-final-project)** : a student social platform for sharing recipes and blogs with real-time updates.
 
 **[Git the Gist](https://github.com/mahitha-t/repo-analyzer)** : a GitHub commit analyzer with semantic search and interactive dashboards.
 
