@@ -22,7 +22,11 @@ Contributing author on **TempusBench: An Evaluation Framework for Time-Series Fo
 
 **[Git the Gist](https://github.com/mahitha-t/repo-analyzer)** : a GitHub commit analyzer with semantic search and interactive dashboards.
 
-**[Harvest Shield](https://github.com/mahitha-t/harvest-shield)** : a machine learning project for detecting crop disease in maize.
+**[Harvest Shield](https://github.com/mahitha-t/crop_diagnosis_app)** : a machine learning project for detecting crop disease in maize.
+
+**[Caml Case Closed](https://github.com/mahitha-t/caml-case-closed)** : a Clue-inspired detective game built in OCaml.
+
+
 
 [See all projects →](https://github.com/mahitha-t?tab=repositories)
 
