@@ -30,7 +30,7 @@ Contributing author on **TempusBench: An Evaluation Framework for Time-Series Fo
 [mt862@cornell.edu](mailto:mt862@cornell.edu) · [LinkedIn](https://www.linkedin.com/in/mahitha-thippireddy)
 
 ### Coursework
-**Cornell University** — B.S. in Computer Science 
+**Cornell University** : B.S. in Computer Science 
 - Object Oriented Programming & Data Structures
 - Data Science for Engineers
 - Discrete Structures
