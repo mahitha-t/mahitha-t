@@ -12,9 +12,9 @@ Computer Science student at Cornell University, building at the intersection of 
 
 **Machine Learning Software Engineer @ Engineers Without Borders** 
 
-**Undergraduate Researcher @ Cornell Bowers College of Computing and Information Science** 
+**Undergraduate Researcher in Relax ML Lab @ Cornell Bowers College of Computing and Information Science** 
 
-**Software Engineering Intern @ Simulacrum: Cornell Tech** 
+**Software Engineering Intern @ Simulacrum (a Cornell Tech-backed startup) ** 
 Contributing author on **TempusBench: An Evaluation Framework for Time-Series Forecasting** — [read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
 
 ### 🚀 Projects
