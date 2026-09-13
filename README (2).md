@@ -8,7 +8,7 @@
 <!-- Add a couple of sentences about who you are, what you're studying/working on, and what you're interested in. -->
 
 ### 🔬 Research
-- **TempusBench** — an evaluation framework for time-series forecasting foundation models. [Read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
+- **TempusBench**: an evaluation framework for time-series forecasting foundation models. [Read the paper →](https://openreview.net/forum?id=3fMa060Ag5)
 
 ### 🚀 Projects
 - [**harvest-shield**](https://github.com/mahitha-t/harvest-shield) — <!-- one-line description -->
