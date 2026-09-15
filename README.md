@@ -22,7 +22,7 @@ Contributing author on **TempusBench: An Evaluation Framework for Time-Series Fo
 ### Projects
 **[Campus Kitchen](https://github.com/mahitha-t/trends-final-project)** : a student social platform for sharing recipes and blogs with real-time updates.
 
-**[Git the Gist](https://github.com/mahitha-t/repo-analyzer)** : a GitHub commit analyzer with semantic search and interactive dashboards.
+**[Git the Gist](https://github.com/mahitha-t/git-explain)** : a GitHub commit analyzer with semantic search and interactive dashboards.
 
 **[Harvest Shield](https://github.com/mahitha-t/crop_diagnosis_app)** : a machine learning project for detecting crop disease in maize.
 
